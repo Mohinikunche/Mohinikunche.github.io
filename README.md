@@ -5,5 +5,6 @@ PEDATADEPALLI
 ### BRANCH ###
 ELECTRICAL AND COMMUNICATION TECHNOLOGY 
 #### Goal ####
-To became an #### SOFTWARE ENGINEER #### And to make the ### WORLD ###
+To became an #### SOFTWARE ENGINEER #### And to make the ### WORLD ### proud
+
 
