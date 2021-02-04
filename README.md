@@ -1,2 +1,8 @@
-# Mohinikunche.github.io
-This is my website
+# Mohinikunche #
+## Educational Details ##
+SRI VASAVI ENGINEERING COLLEGE
+PEDATADEPALLI
+### BRANCH ###
+ELECTRICAL AND COMMUNICATION TECHNOLOGY 
+
+
